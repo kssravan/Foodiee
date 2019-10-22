@@ -1,0 +1,1 @@
+export const getHotels = (state) => state.hotels.data.nearby_restaurants || [];
